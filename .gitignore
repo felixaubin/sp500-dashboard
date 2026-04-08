@@ -1,0 +1,8 @@
+# Credentials — never commit these
+.env
+
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
